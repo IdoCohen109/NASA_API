@@ -1,0 +1,66 @@
+body {
+    background-image: url("space.jpg");
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: rgb(229, 229, 240);
+    text-shadow: purple 1px 0 10px;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+
+.list-group-item {
+    background: rgba(3, 81, 145, 0.712);
+}
+
+.online-bg {
+    background-color: green;
+}
+
+.offline-bg {
+    background-color: red;
+}
+
+#main-section,
+#daily-Image-section {
+    border: 0.8px mediumblue solid;
+    display: flex;
+    flex-flow: row-reverse wrap;
+    justify-content: center;
+
+}
+
+.card {
+    margin: 10px;
+}
+
+.card-body {
+    background: rgba(3, 201, 168, 0.712);
+}
+
+a {
+    color: brown;
+    font-size: 1rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+
+}
+
+#resfreshData {
+    border: 2px mediumorchid solid;
+    border-radius: 20%;
+    color: mediumorchid;
+}
+
+#resfreshData:hover {
+    color: midnightblue;
+    background: mediumorchid;
+    transition: background-color .8s ease;
+}

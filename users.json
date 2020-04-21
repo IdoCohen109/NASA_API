@@ -1,0 +1,49 @@
+[{
+    "userID": "0",
+    "name": "Clark Kent",
+    "Email": "superman@gmail.com",
+    "isLogged": true,
+    "joinedAt": "11.9.19"
+}, {
+    "userID": "1",
+    "name": "Ido Cohen",
+    "Email": "ido@gmail.com",
+    "isLogged": false,
+    "joinedAt": "12.2.20"
+}, {
+    "userID": 2,
+    "name": "Jason Statham",
+    "Email": "jason@gmail.com",
+    "isLogged": true,
+    "joinedAt": "15.1.19"
+}, {
+    "userID": 3,
+    "name": "Hulk Hugan",
+    "Email": "hulk@gmail.com",
+    "isLogged": true,
+    "joinedAt": "25.4.15"
+}, {
+    "userID": 4,
+    "name": "Bruce Waine",
+    "Email": "batman@gmail.com",
+    "isLogged": false,
+    "joinedAt": "12.2.20"
+}, {
+    "userID": 5,
+    "name": "Pitter Parker",
+    "Email": "Pitter@gmail.com",
+    "isLogged": true,
+    "joinedAt": "12.5.19"
+}, {
+    "userID": 6,
+    "name": "Ragnar Lothbrok",
+    "Email": "Ragnar@gmail.com",
+    "isLogged": false,
+    "joinedAt": "28.1.19"
+}, {
+    "userID": 7,
+    "name": "Rick Morthy",
+    "Email": "Rick@gmail.com",
+    "isLogged": true,
+    "joinedAt": "27.3.19"
+}]
